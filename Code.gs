@@ -21,30 +21,16 @@
 
 
 // name of the calendar
-// var calname = "DTLJ_hours_eva";
-// var calname = "DTLJ_hours_mouna";
-// var calname = "DTLJ_hours_pierre";
-var calname = "DTLJ_hours_anne";
-// var calname = "DTLJ_hours_michael";
-// var calname = "DTLJ_hours_mylene";
-// var calname = "DTLJ_hours_mel";
-// var calname = "DTLJ_hours_val";
+var calname = "hc_hours_nathan";
 
 // name of person (it'll be printed in a column, and be included in the sheet-name)
-// var yourname = "Eva";
-// var yourname = "Mouna";
-// var yourname = "Pierre";
-var yourname = "Anne";
-// var yourname = "Michael";
-// var yourname = "Mylene";
-// var yourname = "Mel";
-// var yourname = "Val";
+var yourname = "Nathan";
 
 // specify calendar year you want to compute
-var year = 2014;
+var year = 2018;
 
-var company = "DAILY TOUS LES JOURS";
-var company_short = "DTLJ";//
+var company = "Hesbicoop";
+var company_short = "Hesbicoop";//
 
 
 /*
